@@ -21,7 +21,7 @@ node {
         }
     }
   } finally {
-    junit ‘target/**/*.xml’
+    junit ‘/home/CSCC/cmeyer31/IdeaProjects/specialtopics-ci-lab/**/*.xml’
   }
   // you should add a test report here
 }
